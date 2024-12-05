@@ -24,7 +24,9 @@ Contacts are stored in data.csv to ensure data is retained even after the progra
 Class temp
 Methods:
 addContact(): Adds a new contact and appends it to data.csv.
+
 showAll(): Reads and displays all contacts from data.csv.
+
 searchContact(): Searches for a contact by phone number and displays the result.
 
 main() Function
